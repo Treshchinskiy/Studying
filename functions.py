@@ -5,3 +5,6 @@ def read(df,str):
     df.head()
     print('--'*15)
     
+
+def print_hello_to(str):
+    print(f'hello {str} !')
