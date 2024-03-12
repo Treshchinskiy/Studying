@@ -249,8 +249,8 @@ develop, репозиторий примет следующий вид.
 A-B-C
     |
     --Dnew-Enew-Fnew
-          |
-        develop
+                 |
+               develop
 
 
 То есть команда git rebase перенесла коммиты ветки develop так, 
